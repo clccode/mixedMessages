@@ -1,10 +1,10 @@
 // Mixed message creator
 
 // Assign quotes to arrays
-let quotes1 = ['He dribbles the ball up the floor...', 'They dump the puck in...', 'The QB hands the ball off...',
+let quotes1 = ['He dribbles the ball up the floor...', 'They dump the puck in...', 'The quarterback hands the ball off...',
 'The batter steps up to the plate...', 'They boot the ball up the pitch...'];
 let quotes2 = ['and he passes the ball to the forward...', 'and the winger gets it out of the corner...', 
-'the RB hits the line...', 'he takes a swing at it...', 'and the forward drives toward the goal...'];
+'the running back hits the line...', 'he swings!...', 'and the forward drives toward the goal...'];
 let quotes3 = ['he shoots!...', 'and passes it to the center who shoots!...', 'and he breaks through the line!...', 
 'and he connects with the ball!...', 'and dribbles past a defender and shoots!...'];
 let quotes4 = ['and drains it for 2 points!', 'and he scores!!!', 'and the linebacker tackles him.', 
